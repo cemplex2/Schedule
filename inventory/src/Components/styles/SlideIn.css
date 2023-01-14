@@ -1,0 +1,7 @@
+.slide-in{
+    color:white;
+    margin-top: -250px;
+    opacity: 0;
+    transition-property: margin-top, opacity;
+    transition-duration: 2s;
+}
